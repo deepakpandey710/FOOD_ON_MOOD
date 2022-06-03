@@ -73,4 +73,4 @@ Copy the url and paste it in your favourite browser window.
 ![screenshot 39](https://user-images.githubusercontent.com/31369977/38466416-5144b878-3b46-11e8-8da1-b2523d93d95e.png)
 ![screenshot 31](https://user-images.githubusercontent.com/31369977/38465882-bbcf2df2-3b3e-11e8-9192-60f4dbe03276.png)
 
-This project was made collectively by [Mansi Breja](https://github.com/MansiBreja), [Kavita Maurya](https://github.com/Kavita309) and [Anjali Agarwal](https://github.com/aganjali10) as a part of the HackBMU Hackathon, BML University, Gurgaon, Haryana. 
+This project was made collectively by @Itsyashsharma, @deepakpandey710 .
